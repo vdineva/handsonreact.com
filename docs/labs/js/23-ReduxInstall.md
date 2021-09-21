@@ -22,7 +22,7 @@ title: 'Lab 23 Redux: Installation & Configuration'
    ```shell
    yarn add redux react-redux redux-devtools-extension redux-thunk
    ```
-1. After the installs finish, **open** the `\package.json` file and quickly **verify** the **packages** were added to the `dependencies` and `devDependencies`.
+1. After the installs finish, **open** the `\package.json` file and quickly **verify** the **packages** were added to the `dependencies`.
 
 ### Configure Redux
 
